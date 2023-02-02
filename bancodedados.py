@@ -1,0 +1,1 @@
+# digitar um número e aparecer uma imagem na tela falando "confirmado, pode entrar"
